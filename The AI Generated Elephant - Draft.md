@@ -159,6 +159,8 @@ AI companies are not omnipotent, they are making mistakes and hedging their bets
 
 ### Articles:
 
+[Jensen Huang says he would be 'deeply alarmed' if his $500,000 engineer did not consume at least $250,000 of tokens](https://www.businessinsider.com/jensen-huang-500k-engineers-250k-ai-tokens-nvidia-compute-2026-3?op=1)
+
 [Google lays off hundreds of ‘Core’ employees, moves some positions to India and Mexico](https://www.cnbc.com/2024/05/01/google-cuts-hundreds-of-core-workers-moves-jobs-to-india-mexico.html)
 
 [ResumeBuilder - Offshore Workers 2024](https://www.resumebuilder.com/1-in-5-companies-replaced-laid-off-u-s-employees-with-offshore-workers/)
