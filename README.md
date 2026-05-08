@@ -261,7 +261,7 @@ There were 6 interactions patterns that were observed and they can be evenly spl
 - **Conceptual Inquiry**: participants in this group only asked conceptual questions and then relied on their improved understanding to implement a solution for a given task. This group encountered many errors, but resolved these errors independently. On average, this was the fastest among high-scoring patterns and second fastest overall.
 
 
-![[Pasted image 20260331092558.png]]
+![](raw.githubusercontent.com/junku-dev/AI_BAD_ESSAY/refs/heads/main/essay/Pasted image 20260331092558.jpg)
 
 > This graph suggests that cognitive effort is the best tool for building knowledge and skills. It shows the difference between paste behaviors.
 
