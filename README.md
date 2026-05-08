@@ -220,20 +220,20 @@ The researchers conclude that aggressive AI adoption and incorporation into the 
 - AI significantly reduced quiz scores, level of skill formation was reduced
 - Average score difference of 17% between AI group and non-AI group.
 
-![[Pasted image 20260331092121.jpg]]
+![](https://raw.githubusercontent.com/junku-dev/AI_BAD_ESSAY/refs/heads/main/essay/Pasted%20image%2020260331092006.jpg)
 
 > completion time mostly the same, but quiz scores were noticeably different.
 
-![[Pasted image 20260331092030.jpg]]
+![](https://raw.githubusercontent.com/junku-dev/AI_BAD_ESSAY/refs/heads/main/essay/Pasted%20image%2020260331092030.jpg)
 
 > AI did not significantly speed up task completion. In fact, 4/26 members of the control (no AI) did not finish *task 2* in the 35 minute time limit, every participant in the treatment (AI assisted) finished *task 2*, but not much faster than the control.
  
-![[Pasted image 20260331092045.jpg]]
+![](https://raw.githubusercontent.com/junku-dev/AI_BAD_ESSAY/refs/heads/main/essay/Pasted%20image%2020260331092045.jpg)
 
 > Quiz scores were higher for the control (no AI) in all subareas.
 > It's important to note that the control (no AI) group performed significantly better in debugging, which is arguably one of the most important skills.
 
-![[Pasted image 20260331092121.jpg]]
+![](https://raw.githubusercontent.com/junku-dev/AI_BAD_ESSAY/refs/heads/main/essay/Pasted%20image%2020260331092121.jpg)
 
 > The treatment group (AI assisted) found tasks easier, but found the post-task quiz just as challenging as the control (no AI) group. This suggests that AI gave the treatment group false-confidence.
 
